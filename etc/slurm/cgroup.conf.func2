@@ -1,0 +1,5 @@
+CgroupMountpoint=/sys/fs/cgroup
+ConstrainCores=yes
+ConstrainRAMSpace=yes
+ConstrainDevices=yes
+TaskAffinity=no
